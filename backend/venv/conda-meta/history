@@ -1,0 +1,21 @@
+==> 2024-12-12 15:55:23 <==
+# cmd: C:\Users\vkasy\anaconda3\Scripts\conda-script.py create --prefix ./venv python=3.10
+# conda version: 24.11.0
++conda-forge/noarch::pip-24.3.1-pyh8b19718_0
++conda-forge/noarch::setuptools-75.6.0-pyhff2d567_1
++conda-forge/noarch::tzdata-2024b-hc8b5060_0
++conda-forge/noarch::wheel-0.45.1-pyhd8ed1ab_1
++conda-forge/win-64::bzip2-1.0.8-h2466b09_7
++conda-forge/win-64::ca-certificates-2024.8.30-h56e8100_0
++conda-forge/win-64::libffi-3.4.2-h8ffe710_5
++conda-forge/win-64::liblzma-5.6.3-h2466b09_1
++conda-forge/win-64::libsqlite-3.47.2-h67fdade_0
++conda-forge/win-64::libzlib-1.3.1-h2466b09_2
++conda-forge/win-64::openssl-3.4.0-h2466b09_0
++conda-forge/win-64::python-3.10.16-h37870fc_1_cpython
++conda-forge/win-64::tk-8.6.13-h5226925_1
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
++conda-forge/win-64::vc-14.3-ha32ba9b_23
++conda-forge/win-64::vc14_runtime-14.42.34433-he29a5d6_23
++conda-forge/win-64::vs2015_runtime-14.42.34433-hdffcdeb_23
+# update specs: ['python=3.10']
